@@ -101,6 +101,9 @@
             "solar-production": {
                 "name": "Solar production"
             },
+            "add-production": {
+                "name": "Additional production"
+            },
             "pset-limit-charge": {
                 "name": "Maximum charge"
             },
@@ -136,6 +139,9 @@
             },
             "db-day-solar-production": {
                 "name": "Solar production - today"
+            },
+            "db-day-add-production": {
+                "name": "Additional production - today"
             },
             "db-day-selfconsumption": {
                 "name": "Self consumption - today"
