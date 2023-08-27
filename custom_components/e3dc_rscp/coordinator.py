@@ -186,7 +186,7 @@ class E3DCCoordinator(DataUpdateCoordinator[dict[str, Any]]):
         self._mydata["db-day-house-consumption"] = db_data["consumption"]
         self._mydata["db-day-selfconsumption"] = db_data["consumed_production"]
         self._mydata["db-day-solar-production"] = db_data["solarProduction"]
-        self._mydata["db-day-add-production"] = db_data["addProduction"]
+        self._mydata["db-day-add-production"] = db_data["pm0Production"]
         self._mydata["db-day-startts"] = db_data["startTimestamp"]
 
     def _process_manual_charge(self, request_data) -> None:

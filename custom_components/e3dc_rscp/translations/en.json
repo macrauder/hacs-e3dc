@@ -142,7 +142,7 @@
             },
             "db-day-add-production": {
                 "name": "Additional production - today"
-            },
+            },            
             "db-day-selfconsumption": {
                 "name": "Self consumption - today"
             },
