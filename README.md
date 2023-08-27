@@ -1,4 +1,4 @@
-# Homeassistant E3DC Integration - Git Version
+# Homeassistant E3DC Integration - Git Version --THE
 
 [![hacs][hacs-shield]][hacs]
 [![GitHub Release][releases-shield]][releases]
